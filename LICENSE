@@ -1,0 +1,137 @@
+Copyright 2024 Stephen Owens (steve.owens@rightfoot.consulting)
+
+“Right Foot Consulting Commons License” v1.0
+
+Definitions:
+
+    "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
+
+    "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+    "Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or
+    are under common control with that entity. For the purposes of this definition, "control" means (i) the power,
+    direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii)
+    ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+    "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+    "Source" form shall mean the preferred form for making modifications, including but not limited to software source
+    code, documentation source, and configuration files.
+
+    "Object" form shall mean any form resulting from mechanical transformation or translation of a Source form,
+    including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+    "Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as
+    indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix
+    below).
+
+    "Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the
+    Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a
+    whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works
+    that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works
+    thereof.
+
+    "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications
+    or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in
+    the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright
+    owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written
+    communication sent to the Licensor or its representatives, including but not limited to communication on electronic
+    mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the
+    Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously
+    marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
+    "Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been
+    received by Licensor and subsequently incorporated within the Work.
+
+    "AI" shall mean any machine learning algorithm, or artificial intelligence including but not exclusive of neural
+    networks, generative AI, Chat GPT or any other similar software executed by a non human or non biological entity.
+
+    "Adjudicating Authority" means any lawful court of authority holding jurisdiction over any dispute pertaining to
+    this License or violations of its terms.
+
+Grants:
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+    documentation files (the “Software”), to deal in the Software subject to the restrictions and conditions set
+    forth herein, including without limitation the rights to use, copy, publish, and distribute copies of the Software,
+    and to permit persons to whom the Software is furnished to do so, subject to the conditions set forth below. All
+    other rights are reserved by the Licensor. You are further granted permission to compile and execute this software
+    on public or private servers subject to the restrictions and conditions set forth herein.
+
+Conditions:
+
+    The above copyright notice and this License notice shall be included in all copies or substantial portions of the
+    Software.
+
+    The Software is provided to you by the Licensor under the License, as defined below, subject to the following
+    conditions.
+
+    You may not modify nor reverse engineer the code. You may not redistribute any compiled or machine code version of
+    the software to any third party without written authorization from the Licensor. You may analyze the code to asesss
+    the code for security vulnerabilities provided that you report any and all security related findings via email to
+    support@rightfoot.consulting.
+
+    Under no circumstances may any form of this software ever be used to train any form of Artificial Intelligence or
+    other Machine Learning algorithm ("AI"). Failure to abide by this condition whether intentional or incidental shall
+    render the party in breach of these terms liable to the Licensor for a monetary fee of one billion US dollars
+    ($1,000,000,000 USD), above and beyond any other damages or liabilities allowed for under the law for breach of
+    these conditions. This liability extends to the use of these terms to train any AI.
+
+    Without limiting other conditions in the License, the grant of rights under the License will not include, and the
+    License does not grant to you, the right to Sell the Software.
+
+    For purposes of the foregoing, “Sell” means practicing any or all of the rights granted to you under the License
+    to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or
+    consulting or other support services related to the Software), a product or service whose value derives, entirely
+    or substantially, from the functionality of the Software. Any license notice or attribution required by the License
+    must also include this Commons Clause License Condition notice. Distribution, storage, and hosting of this software
+    on a publicly available code repository in code form, even if for profit, is excluded from this definition provided
+    that there is no fee or charge for redistribution or hosting of the software.
+
+    As pertains to code contributions and submissions, you agree to transfer all intellectual property rights including
+    patent rights to your submission to the Licensor.
+
+    This License does not grant permission to use the trade names, trademarks, service marks, or product names of the
+    Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing
+    the content of the NOTICE file.
+
+    Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides
+    its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied,
+    including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS
+    FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing
+    the Work and assume any risks associated with Your exercise of permissions under this License.
+
+    In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless
+    required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any
+    Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential
+    damages of any character arising as a result of this License or out of the use or inability to use the Work
+    (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any
+    and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such
+    damages.
+
+    While redistributing the Work you may act only on Your own behalf and on Your sole responsibility, not on behalf of
+    any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any
+    liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty
+    or additional liability.
+
+    If any term of this License is to any extent deemed invalid, illegal, or incapable of being enforced by any
+    Adjudicating Authority, such term shall be excluded or minimally amended to the extent of such invalidity,
+    illegality, or unenforceability; all other terms hereof shall remain in full force and effect. Any amendment to a
+    term of this License in order to render the term valid, legal or enforceable shall be performed in such a manner as
+    to preserve the original intent of the term. Amendment shall be preferred to exclusion for the purpose of rendering
+    the License valid, legal or enforceable. In any civil action or dispute related to this License, the Licensor
+    shall, in conference with the Adjudicating Authority, have the right to make the final decision as to the nature of
+    the amendment or exclusion necessary to render this Licence valid, legal or enforceable.
+
+Bounty:
+
+    If you provide information pertaining to violoations of this licence you may be eligible for a bounty provided that
+    such information leads to a successful recovery of damages by Licensor against the violating party. Such bounty
+    will be 10% of any monetary damages recovered from the violator after legal fees and other expenses for
+    prosecution. Licensor is not obligated to pursue action against any violator under any circumstances.
+
+Support:
+
+    If you need help setting this software up on a host, Right Foot Consulting Services Inc provides personal support
+    via Google Meet, or other teleconferencing software such as Zoom. Support engagements can be initiated by sending a
+    request to support@rightfoot.consulting for current support pricing.
